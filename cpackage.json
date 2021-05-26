@@ -1,5 +1,5 @@
 {
-	"name": "LibraryName",
+	"name": "json",
 	"type": "interface",
 	"includeFolders": "include",
 	"description": "(PACC port of:) JSON for Modern C++"

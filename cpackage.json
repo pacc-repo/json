@@ -2,5 +2,6 @@
 	"name": "json",
 	"type": "interface",
 	"includeFolders": "include",
-	"description": "(PACC port of:) JSON for Modern C++"
+	"description": "(PACC port of:) JSON for Modern C++",
+	"version": "3.9.1"
 }
